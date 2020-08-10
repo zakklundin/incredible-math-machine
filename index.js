@@ -1,8 +1,13 @@
 const element = document.getElementById('math')
 
+// Ask user for numbers
 prompt('Give me a number'
 prompt('Give me another number'
 
-// log the numbers to the console?
+// TODO: log the input numbers to the console!
 
-element.innerHTML = `${a} + 7 = ???`
+sum
+// TODO: log the sum to the console!
+
+// Template literal string
+element.innerHTML = `${a} + b = {sum}`
