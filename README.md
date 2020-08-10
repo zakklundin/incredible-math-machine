@@ -18,4 +18,4 @@ I'd like you to push these changes to a repository of your own, just in case. Th
 
 3. Add the correct remote for your new repository. Let's still call it `origin`. Do this by using `git remote add origin https://________________.git` (but with your new remote URL of course)
 
-4. Push the changes to your new remote
+4. Push the working code
